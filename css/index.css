@@ -21,7 +21,7 @@ html, body, .viewport {
   padding: 10px 0;
 }
 
-.content a {
+.content a:hover {
   text-decoration: none;
 }
 
