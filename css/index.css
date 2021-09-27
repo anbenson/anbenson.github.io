@@ -21,6 +21,10 @@ html, body, .viewport {
   padding: 10px 0;
 }
 
+.content b {
+  font-weight: bold;
+}
+
 .content a:hover {
   text-decoration: none;
 }
